@@ -17,6 +17,9 @@
 	<classpathentry kind="src" path="jdk/src/share/classes"/>
 	<classpathentry kind="src" path="nashorn/buildtools/nasgen/src"/>
 	<classpathentry kind="src" path="langtools/src/share/classes"/>
+	<classpathentry kind="src" path="langtools/src/share/sample"/>
+	<classpathentry kind="src" path="langtools/test"/>
+	<classpathentry kind="src" path="jaxp/src"/>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
